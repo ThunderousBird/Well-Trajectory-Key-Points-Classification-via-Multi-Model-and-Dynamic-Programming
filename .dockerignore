@@ -1,0 +1,5 @@
+*.cbm
+*.json
+lgb_model.txt
+__pycache__/
+*.log

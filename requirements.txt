@@ -1,0 +1,18 @@
+# 核心数据科学包
+numpy==2.1.2
+pandas==2.3.3
+scipy==1.16.2
+scikit-learn==1.7.2
+
+# 机器学习框架
+xgboost==3.0.5
+lightgbm==4.6.0
+catboost==1.2.8
+
+# 工具包
+joblib==1.4.2
+tqdm==4.66.4
+fastdtw==0.3.4
+
+# 其他
+threadpoolctl==3.5.0
